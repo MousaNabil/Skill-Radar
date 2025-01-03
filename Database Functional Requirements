@@ -1,0 +1,59 @@
+Everything to Learn is Earthier a Mere Concept Related to a Science Branch or Tech Tool at Some Tech Container
+So, we have THE TOOL WORLD and THE CONCEPT WORLD Interact with Each Other
+# THE TOOL WORLD Definition
+- Tech Have Many Domains (Software Development, Networking, Data)
+- Every Domain Have Some Fields (Web, Mobile, Analysis, Visualize)
+- Every Field Have Some Branches (job Profile) (Back-end, Front-end, Network Administration)
+- Every Branch Include some Container to work by (C#, ASP.net, Python, Nmap, Excel)
+- Every Container Contain some Tools/Libraries (OOP, NumPy, Pandas, Pivot Tables)
+- Every tool Have some Sub_Tool (Classes, Objects, Function)
+- Every Sub_Tool MAY have Sub_tool_Detail
+
+- Tech Domains have Many Tech Fields
+- Tech Fields may be Nested Under Multiple domains (it’s rare, but it will be for more flexible Framework)
+- Tech Field Have Multiple Tech Branches and Vice Versa (For Flexibility Only)
+
+- 
+
+# The CONCEPT WORLD Definition
+
+- There are Concepts
+- Concepts may Have Sub-Concepts
+- Sub-Concepts may have subConcept_Detail
+- Concepts are Included Mainly under one Science Branch (Algebra, Statistics, Genetics)
+- Science Branch is nested Mainly under Science Field
+- 
+
+
+# The Interaction
+
+- The tool may be Direct Applying of Concept (and that’s very rare since that tools are heigh hierarchical Collections of things)
+- Every sub-tool may be direct Applying of concept (that’s the Common case)
+- But sub-tool may be applying of sub-concept
+- May be no Relations Between TOOL WORLD and CONCEPT WORLD
+
+
+
+
+
+
+
+-Everything to Learn is Earthier a Mere Concept or Tool at Some Container
+
+as Example (tables, Data Entry, Aggregation Functions, data visualization) those are Concepts have Sub_Concepts and Concept_Detail
+
+ BUT (MS Excel, C#, HTML, Python) Considered as Containers has a bunch of tools like (Pivot Tables, OOP, Headings, Numpy)and Every Tool have Sub_Tool and Tool_Detail  
+-Every Container Represent an app, Software, Platform, Framework, Programming Language 
+
+-Every Container is Dependent, but Containers Interlock with Each other
+-Every Container Have Many Tools, But every Tool is Included at only One Container
+BUT
+-You May Found tools from Different or Same Containers have Similarities, in this case we could it
+
+
+Every Concepts May Be Applied by Many tools, and Every Tool may have More than one Concept
+
+- Every tool may Have Sub-tool
+- Every Concept may Have Sub-Concept
+
+----WARNING : Every THING have to Stick at The Hierarchy Level as it Begin at, for Example: If you Consider NumPy as a Tool(not python sub-tool) so it has to be a tool Forever----
